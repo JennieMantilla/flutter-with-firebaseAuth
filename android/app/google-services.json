@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690613082785",
+    "project_id": "jennieapp-12a6f",
+    "storage_bucket": "jennieapp-12a6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690613082785:android:d785607b3d26edb44ceee0",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD39Pl8kMV75Ueg9-T9Xlbtokpn4T68d3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
